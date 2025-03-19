@@ -1,23 +1,3 @@
-<style>
-body {
-    background-color: #1a1a1a;
-    color: #ffffff;
-}
-h1, h2, h3, h4, h5, h6 {
-    color: #ffffff;
-}
-a {
-    color: #4ea1d3;
-}
-code {
-    background-color: #2d2d2d;
-    color: #f8f8f2;
-}
-pre {
-    background-color: #2d2d2d;
-}
-</style>
-
 # The Moneychangers: A Comprehensive Summary of Banking Concepts and Relationships
 
 Based on the transcript provided, I'll compile the key definitions and relationships explored in the documentary series "The Moneychangers," which examines the history and evolution of banking from ancient times through the 2008 financial crisis.
